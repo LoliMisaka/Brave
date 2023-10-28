@@ -3,6 +3,7 @@
  * Author: Veen Zhao
  * CreateTime: 2020/9/5 18:26
  */
+//include 'shortcodes.php';
 
 class App
 {
